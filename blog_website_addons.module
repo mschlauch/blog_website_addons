@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the blog website addons feature.
+ */
+
+include_once 'blog_website_addons.features.inc';
